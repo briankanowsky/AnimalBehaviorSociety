@@ -1,1 +1,12 @@
-Hello, World.
+# CiviCRM Add Ons #
+
+I am developing these CiviCRM addons for an implementation, and wanted to make them publicly available for others to use, improve, and build off.
+
+1. When [custom data field] is imported, generate an email report.
+
+2. When new Member Type is [student], pop up window to agree to special terms & conditions. Record that agreement in a custom data field.
+
+3. When new Member Type is [developing nation], check billing country to see if it is on the list of developing nations.
+
+4. Button to email customer profile to 3rd-party. Based on "Email Contact" functionality. Sends customer name, customer number, and mailing address profile to members of Group "Publisher".
+
